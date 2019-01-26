@@ -48,7 +48,7 @@ public class Vista extends JFrame{
 	private ArrayList<Jugador> jugadores; //Jugadores que juegan la partida
 	
 	private String[] colores = {"amarillo","azul","rojo","verde"};
-	private String[] coloresTexto = {"Amarillo","Azul","Rojo","Verde"};
+	private String[] coloresTexto = {"Amarilloo","Azul","Rojo","Verde"};
 	private String[] tipos = {"(persona)","(IA lejano)","(IA equilibrado)","(IA random)"};
 	private int[] posFinales = {75,83,91,99};
 	
